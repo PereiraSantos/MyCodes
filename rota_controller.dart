@@ -22,3 +22,5 @@ class RouterPage{
 
   void goRoute() => router.goRouter();
 }
+
+//RouterPage(Pager(SegundaTextForm(Get.put(SegundaTextFormController())))).goRoute();
